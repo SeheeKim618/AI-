@@ -13,6 +13,11 @@ Hyperparameters :
 ![code_2](code_2.png)
 
 
+Data Augmentation : 
+
+![code_3](code_3.png)
+
+
 다음은 코드 수행 결과입니다 :
 
 ![result_1](result_1.png)
