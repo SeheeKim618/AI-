@@ -19,6 +19,7 @@ Data Augmentation :
 
 
 Learning rate scheduling : 
+1. gamma를 조절하였습니다.
 
 ![code_4](code_4.png)
 
