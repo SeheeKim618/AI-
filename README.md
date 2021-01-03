@@ -1,5 +1,11 @@
 # AI-
 
+Model 
+1. Convolution layer의 out_channels를 조절하였습니다.
+2. Fully connected layer(nn.Linear)의 features 조절하였습니다.
+
+![code_1](code_1.png)
+
 
 다음은 코드 수행 결과입니다 :
 
