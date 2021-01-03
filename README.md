@@ -17,7 +17,7 @@ Hyperparameters :
 
 데이터셋 입력 : 
 
-![code_6](code_6.png)
+![code_5](code_5.png)
 
 Data Augmentation : 
 
