@@ -3,6 +3,7 @@
 Model 만들기 : 
 
 ● Convolution layer의 out_channels를 조절하였습니다.
+
 ● Fully connected layer(nn.Linear)의 features 조절하였습니다.
 
 ![code_1](code_1.png)
