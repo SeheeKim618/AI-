@@ -6,12 +6,14 @@ Model 만들기 :
 
 ![code_1](code_1.png)
 
+print(" ")
 
 Hyperparameters : 
 1. Epoch, learning rate, batch_size 조절하였습니다.
 
 ![code_2](code_2.png)
 
+print(" ")
 
 다음은 코드 수행 결과입니다 :
 
