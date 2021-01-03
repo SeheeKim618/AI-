@@ -17,6 +17,9 @@ Data Augmentation :
 
 ![code_3](code_3.png)
 
+Learning rate scheduling : 
+
+
 
 다음은 코드 수행 결과입니다 :
 
